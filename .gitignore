@@ -3,3 +3,7 @@ rag_venv
 
 # env file
 .env
+
+#agentops 
+agentops*
+

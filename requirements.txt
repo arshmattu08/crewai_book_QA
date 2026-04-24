@@ -1,6 +1,8 @@
 # libraries
 crewai
 crewai_tools
+cffi
+cryptography
 
 # environment variable and LLM management
 python-dotenv
@@ -8,5 +10,7 @@ openai
 
 # Observability of system
 agentops
+
+
 
 
