@@ -1,0 +1,12 @@
+# libraries
+crewai
+crewai_tools
+
+# environment variable and LLM management
+python-dotenv
+openai
+
+# Observability of system
+agentops
+
+
